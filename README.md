@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FareehaNaz
 - 👀 I’m interested in exceling in coding
-- 🌱 I’m currently studying in FAST-NUCES (2nd year)
+- 🌱 I’m currently studying in FAST-NUCES (3nd year)
 - 📫 How to reach me -> fareehanaz31@gmail.com
 
 <!---
